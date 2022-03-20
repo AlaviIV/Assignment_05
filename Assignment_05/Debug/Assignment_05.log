@@ -1,0 +1,7 @@
+﻿  main.cpp
+  vectorContainer.cpp
+F:\User Alavi\Documents\School\Santa Ana College\2022 Spring\CMPR 131\Assignments\Assignment 05\Assignment_05\vectorContainer.cpp(110,23): warning C4018: '<': signed/unsigned mismatch
+F:\User Alavi\Documents\School\Santa Ana College\2022 Spring\CMPR 131\Assignments\Assignment 05\Assignment_05\vectorContainer.cpp(280,27): warning C4018: '<': signed/unsigned mismatch
+F:\User Alavi\Documents\School\Santa Ana College\2022 Spring\CMPR 131\Assignments\Assignment 05\Assignment_05\vectorContainer.cpp(285,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Assignment_05.vcxproj -> F:\User Alavi\Documents\School\Santa Ana College\2022 Spring\CMPR 131\Assignments\Assignment 05\Assignment_05\Debug\Assignment_05.exe
